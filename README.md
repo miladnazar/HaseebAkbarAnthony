@@ -3,4 +3,4 @@ In this repository we're going to communicate and collaborate our research and f
 
 
 We can keep adding project name, and project description in the following manner.
-1- Stock Investment Recommendations ==> In this project I'm going over 1,200 different stocks and building a portfolio out of 25 best ones. 
+1 - Stock Investment Recommendations ==> In this project I'm going over 1,200 different stocks and building a portfolio out of 25 best ones. 
